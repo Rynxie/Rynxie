@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Embedded Systems STM32, C, Assembly, CPU architechtures**
 
-- 📝 I (will) regularly write articles on [blog.tunahan.pw](blog.tunahan.pw)
+- 📝 I (will) regularly write articles on [blog.tuna.sh](blog.tuna.sh)
 
 - 💬 Ask me about **C**
 
