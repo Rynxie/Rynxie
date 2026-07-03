@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C**
 
-- 📫 How to reach me **tunahankayawork@gmail.com**
+- 📫 How to reach me **tunahankaya@desird.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tunahanpw/](https://www.linkedin.com/in/tunahanpw/)
 
