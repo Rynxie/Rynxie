@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **Embedded Systems STM32, C, Assembly, CPU architechtures**
 
-- 📝 I (will) regularly write articles on [blog.tuna.sh](blog.tuna.sh)
-
-- 💬 Ask me about **C**
-
 - 📫 How to reach me **tunahankaya@desird.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tunahanpw/](https://www.linkedin.com/in/tunahanpw/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tunash/](https://www.linkedin.com/in/tunash/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
